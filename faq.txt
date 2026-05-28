@@ -1,0 +1,4 @@
+java=Java is a programming language.
+ai=Artificial Intelligence is simulation of human intelligence.
+internship=Internship provides practical experience.
+college=A college is an educational institution.
